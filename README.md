@@ -1,2 +1,3 @@
-crp-categories
-==============
+This repository contains detailed information about codes used to identify industry / ideology in many of the datasets provided by the [Cener for Responsive Politics](http://www.opensecrets.org/).
+
+This information is being made available to facilitate the sharing of the quality, improved data that the Center for Responsive Politics works hard to provide. Should you find this information useful, please consider supporting the work of the Center with a donation: http://www.opensecrets.org/donate/ Whether you use this information to provide relevant links to their web site, www.OpenSecrets.org, or to use CRP's APIs available at www.OpenSecrets.org/resources/create/apis.php, please make sure to credit the Center for Responsive Politics and/or OpenSecrets.org. And remember, Federal law prohibits the use of contributor information for the purpose of soliciting contributions or for any commercial purpose.
