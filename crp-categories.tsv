@@ -254,6 +254,7 @@ LM100	Manufacturing unions	P02	Industrial Unions	Labor	Labor
 LT000	Transportation unions	P03	Transportation Unions	Labor	Labor
 LT100	Air transport unions	P03	Transportation Unions	Labor	Labor
 LM150	Automotive unions	P02	Industrial Unions	Labor	Labor
+LT200	Automotive unions	P02	Industrial Unions	Labor	Labor
 LT300	Teamsters union	P03	Transportation Unions	Labor	Labor
 LT400	Railroad unions	P03	Transportation Unions	Labor	Labor
 LT500	Merchant marine & longshoremen unions	P03	Transportation Unions	Labor	Labor
